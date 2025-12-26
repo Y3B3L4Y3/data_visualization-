@@ -1,0 +1,37 @@
+Indicator_ID,Indicator_description
+SG.APL.PSPT.EQ,A woman can apply for a passport in the same way as a man (1=yes; 0=no)
+SG.HLD.HEAD.EQ,A woman can be head of household in the same way as a man (1=yes; 0=no)
+SG.LOC.LIVE.EQ,A woman can choose where to live in the same way as a man (1=yes; 0=no)
+SG.GET.JOBS.EQ,A woman can get a job in the same way as a man (1=yes; 0=no)
+SG.OBT.DVRC.EQ,A woman can obtain a judgment of divorce in the same way as a man (1=yes; 0=no)
+SG.OPN.BANK.EQ,A woman can open a bank account in the same way as a man (1=yes; 0=no)
+SG.BUS.REGT.EQ,A woman can register a business in the same way as a man (1=yes; 0=no)
+SG.CNT.SIGN.EQ,A woman can sign a contract in the same way as a man (1=yes; 0=no)
+SG.HME.TRVL.EQ,A woman can travel outside her home in the same way as a man (1=yes; 0=no)
+SG.CTR.TRVL.EQ,A woman can travel outside the country in the same way as a man (1=yes; 0=no)
+SG.NGT.WORK.EQ,A woman can work at night in the same way as a man (1=yes; 0=no)
+SG.DNG.WORK.DN.EQ,A woman can work in a job deemed dangerous in the same way as a man (1=yes; 0=no)
+SG.IND.WORK.EQ,A woman can work in an industrial job in the same way as a man (1=yes; 0=no)
+SH.HIV.ARTC.FE.ZS,"Access to anti-retroviral drugs, female (%)"
+SH.HIV.ARTC.MA.ZS,"Access to anti-retroviral drugs, male (%)"
+SL.EMP.TOTL.SP.FE.ZS,"Employment to population ratio, 15+, female (%) (modeled ILO estimate)"
+SL.EMP.TOTL.SP.MA.ZS,"Employment to population ratio, 15+, male (%) (modeled ILO estimate)"
+SH.HIV.INCD.FE.P3,"Incidence of HIV, ages 15-49, female (per 1,000 uninfected female population ages 15-49)"
+SH.HIV.INCD.MA.P3,"Incidence of HIV, ages 15-49, male (per 1,000 uninfected male population ages 15-49)"
+SL.TLF.CACT.FE.ZS,"Labour force participation rate, female (% of female population ages 15+) (modeled ILO estimate)"
+SL.TLF.CACT.MA.ZS,"Labour force participation rate, male (% of male population ages 15+) (modeled ILO estimate)"
+SP.RUR.TOTL.FE.ZS,"Rural population, female (% of total)"
+SP.RUR.TOTL.MA.ZS,"Rural population, male (% of total)"
+SE.ENR.PRIM.FM.ZS,"School enrollment, primary (gross), gender parity index (GPI)"
+SE.ENR.SECO.FM.ZS,"School enrollment, secondary (gross), gender parity index (GPI)"
+SE.ENR.TERT.FM.ZS,"School enrollment, tertiary (gross), gender parity index (GPI)"
+SL.EMP.SELF.FE.ZS,"Self-employed, female (% of female employment) (modeled ILO estimate)"
+SL.EMP.SELF.MA.ZS,"Self-employed, male (% of male employment) (modeled ILO estimate)"
+SL.UEM.TOTL.FE.ZS,"Unemployment, female (% of female labour force) (modeled ILO estimate)"
+SL.UEM.TOTL.MA.ZS,"Unemployment, male (% of male labour force) (modeled ILO estimate)"
+SP.URB.TOTL.FE.ZS,"Urban population, female (% of total)"
+SP.URB.TOTL.MA.ZS,"Urban population, male (% of total)"
+SL.EMP.VULN.FE.ZS,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)"
+SL.EMP.VULN.MA.ZS,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)"
+SL.EMP.WORK.FE.ZS,"Wage and salaried workers, female (% of female employment) (modeled ILO estimate)"
+SL.EMP.WORK.MA.ZS,"Wage and salaried workers, male (% of male employment) (modeled ILO estimate)"
